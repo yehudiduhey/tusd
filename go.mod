@@ -15,10 +15,10 @@ require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/prometheus/client_golang v1.14.0
 	github.com/sethgrid/pester v1.2.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 	github.com/vimeo/go-util v1.4.1
 	google.golang.org/api v0.114.0
-	google.golang.org/grpc v1.54.0
+	google.golang.org/grpc v1.56.1
 	gopkg.in/Acconut/lockfile.v1 v1.1.0
 	gopkg.in/h2non/gock.v1 v1.1.2
 )
